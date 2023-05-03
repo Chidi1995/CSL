@@ -1,0 +1,133 @@
+* {
+    margin: 0%;
+    padding: 12px;
+}
+
+nav {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    justify-content: center;
+
+}
+
+li {
+    margin: 10px;
+}
+
+.button {
+    background-color: yellow;
+    padding: 10px;
+    border: transparent;
+}
+
+.signin {
+    border: transparent;
+    background-color: white;
+    padding: 9px;
+}
+
+
+
+
+
+.title {
+    color: rgb(18, 94, 75);
+    justify-content: left;
+    font-size: 30px;
+}
+
+.button {
+    background-color: yellow;
+    padding: 10px;
+    border: none;
+
+
+}
+
+.text {
+    font-size: larger;
+    color: grey;
+
+}
+
+
+.Earth {
+    width: fit-content;
+    float: right;
+    size-adjust: auto;
+}
+
+.section1 {
+    justify-content: space-around;
+    padding: 70px;
+    background-color: beige;
+    margin: auto;
+    align-items: center;
+}
+
+.secondsection {
+    display: flex;
+}
+
+.secondimg {
+    background-color: aliceblue;
+    /* background-image: url(../Static/Images/A\ Man.png.jpg); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.secondtext {
+    background-color: rgb(18, 94, 75);
+    width: 100%;
+}
+
+/*
+.secondtitle{
+    align-items: center;
+    font-size: 50px;
+    color: white;
+    text-align: left;
+    font-weight: bolder;    
+}
+.secondimg{
+    padding-right: 87px;
+    margin: auto;
+    background-position: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    background-image: url(Static/Images/AMan.png.jpg);
+    padding-left: 75px;
+    
+} */
+/* .Thirdsection{
+    height: 80vh;
+    background-color: rgba(98, 216, 204, 0.219);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+.Thirdsection h2{
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.Thirdsection p{
+    color: darkgrey;
+}
+
+.Firstthirdsection, .Secondthirdsection{
+    border-right: 1px solid darkgrey;
+    padding-right: 50px;
+} */
