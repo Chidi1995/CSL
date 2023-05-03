@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+
+.title{
+    color: white;
+    text-align: center;
+    background-color:purple;
+    padding: 40px;
+}
+
+.Firstarticle{
+    background-color: aqua;
+    padding: 40px;
+    margin: 10px;
+}
+
+.SecondArticle{
+    background-color: aqua;
+    padding: 40px;
+    margin: 10px;
+}
+
+.ThirdArticle{
+    background-color: aqua;
+    padding: 40px;
+    margin: 10px;
+}
+
+section{
+    display: flex;
+    flex: 2px;
+    flex-direction: column;
+
+}
