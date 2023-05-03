@@ -1,0 +1,126 @@
+section{
+    background-color: #f9fafb   ;
+    margin-right: 10px;
+    padding: auto;
+
+    
+}
+
+p{
+    font-size: 22px;
+    color: #868694;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20px;
+    
+
+
+}
+
+h1{
+    font-size: 47px;
+    color: #0E6134;
+    
+}
+
+ul {
+    display: flex;
+
+}
+
+li {
+    padding: 30px;
+    justify-content: space-between;
+    cursor: pointer;
+    list-style: none;
+    gap: 1PX;
+    color: #000000;
+    font: 16px;
+    
+}
+
+.foodbasket{
+    display: flex;
+    gap: 20%;
+
+}
+
+.text{
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.hafc {
+    display: flex;
+    color: darkgrey;
+    gap: 50px;
+
+}
+
+.basket{
+    float: right;
+    justify-content: right;
+}
+
+.word{
+color: #fb4900;
+}
+
+.general{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0 solid #e5e7eb;
+    gap: 20px;
+    
+}
+
+.Partner{
+padding: 10px;
+color: #4B5563;
+background-image: url(./partner_1.webp);
+margin-top: 40px;
+margin-left: 0;
+padding-left: 15%; */
+}
+
+
+
+
+
+.capital{
+    margin-right: auto;
+
+}
+
+.stalk{
+    margin-right: auto;
+
+}
+
+.link{
+    margin-right: auto;
+}
+
+
+
+
+.Dasher{
+    padding: 10px;
+    background-image: url(./dasher.webp);
+    background-position: center;
+    margin-top: 40px;
+    margin-right: 0px;
+    padding-right: 10%;
+}
+
+
+ 
+
+ 
