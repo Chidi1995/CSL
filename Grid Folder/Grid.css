@@ -1,0 +1,14 @@
+section{
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+
+article{
+    height: 500px;
+    background-color: aqua;
+}
+    
+aside{
+    height: 500px;
+    background-color: rebeccapurple;
+}

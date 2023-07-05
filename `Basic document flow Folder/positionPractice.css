@@ -1,0 +1,27 @@
+body{
+    width: 500px;
+    height: 1400px;
+    margin: 0 auto;
+}
+
+.container{
+    position: relative;
+
+}
+
+div.target{
+    background-color: rgb(191, 231, 189);
+    height: 150px;
+    width: 150px;
+    position: relative;
+    left: 325px;
+    bottom: 80px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.text{
+    margin-bottom: 100px;
+
+}

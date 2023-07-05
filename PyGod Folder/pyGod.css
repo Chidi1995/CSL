@@ -1,0 +1,93 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+    font-family: 'poppins' sans-serif;
+
+}
+
+body{
+    background-color: white;
+    justify-content: center;
+}
+
+section{
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1{
+    font-size: 40px;
+    padding: 25px;
+}
+
+p{
+    padding: 25px;
+    font-size: small;
+}
+
+.section1{
+    display: grid;
+    grid-template-columns: 1.5fr 0.6fr 0 0 ;
+    justify-content: space-around;
+}
+
+
+.button1{
+    background-color: white;
+    border: none;
+    padding: 15px;
+}
+
+.button2{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.button3{
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    margin-left: 25px;
+    border: transparent;
+    font-weight: 600;
+
+}
+
+.PyGod{
+    display: flex;
+    justify-content: space-between;
+}
+
+.list{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    padding: 20px;
+}
+
+.Font{
+    font-size: x-large;
+    padding: 8px;
+}
+
+.Man{
+    
+}
+
+.logo{
+    display: flex;
+    /* justify-content: space-between; */
+    list-style: none;
+    gap: 100px;
+}
+
+.logo img{
+    width: 24px;
+    height: 20px;
+}

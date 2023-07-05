@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+}
+
+.cursor{
+    background-image: url(./Background-image.png);
+    background-size: auto;
+    background-position: center;
+
+
+    
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 10vh;
+
+
+}
+
+h3{
+    color: #f5f5f5;
+    font: 20.8PX Cosmic_Neue cursive;
+    margin: 4.8px;
+}
+
+h1{
+    color: #f5f5f5;
+    font: 40px Open_Sans, cursive;
+    margin: 4.8px;
+}
+
+.btn{
+    color: #000000;
+    font: 20.8px Cosmic Neue cursive;
+    margin: 32px;
+    padding: 16px 48px;
+    border-radius: 50px;
+}
+
+.text{
+    color: #3F4954;
+    font: 25.6px Roboto, cursive;
+   
+}
+
+
+.under li{
+   list-style: none;
+   color: #3F4954;
+   font: 17.6px Abel, cursive;
+    display: flex;
+    align-items: center;
+   
+
+
+}
+
+.under  li a:hover{
+    background-color: blue;
+    color: white;
+}
+
+ .under{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    height: 10vh;
+    align-items: center;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.just{
+    text-align: center;
+    padding: 250px;
+    justify-content: center;
+
+}
+
+
+
+
+.sec{
+    /* background-image: none; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 75vh;
+}
+aside{
+    height: 60vh;
+    width: 22%;
+    border: 1px;
+}
+
+.genic{
+    height: 50%;
+    background-image: url(./post-1.jpg);
+
+}
+
+.secondcard .genic{
+    background-image: url(./post-2.jpg);
+}
+
+.thirdcard .genic{
+    background-image: url(./post-3.jpg);
+}
+
+.thus{
+    background-color: transparent;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+    box-shadow: 15px 15px 10px grey;
+}
+
+.btn2{
+    color: #000000;
+    font: 20.8px Cosmic Neue cursive;
+    width: 130px;
+    height: 45px;
+    border-radius: 20px;
+    background-color: #88C8FF;
+    border: none;
+
+}
+
+.img{
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    height: 350px;
+    position: relative;
+    left: 80px;
+    top: 30px;
+}
+
+.postinfo{
+    position: absolute;
+    color: #000000;
+    /* padding: 16px; */
+    font: 16px "Times New Roman";
+    transform: translateY(-55px);
+    position: relative;
+    left: 230px;
+    top: 40px;
+    background-color: #88C8FF;
+    width: 350px;
+    height: 52px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+    text-align: center;
+    border-radius: 30px;
+
+
+
+}
+
+span{
+    color: #000000;
+    font: 16px Abel, cursive;
+    margin: 8px;
+   
+}
